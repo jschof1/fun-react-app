@@ -1,0 +1,25 @@
+.memeText { 
+    font-family: impact;
+    padding: 0px;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    color: white;
+    line-height: 100px;
+    letter-spacing: 1px;
+    text-shadow:2px 2px 0 #000,
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    0px 2px 0 #000,
+    2px 0px 0 #000,
+    0px -2px 0 #000,
+    -2px 0px 0 #000,
+    2px 2px 5px #000;
+  }
+
+
+  
+.meme {
+  min-width: 400px;
+}
+  

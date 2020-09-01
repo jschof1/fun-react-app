@@ -1,0 +1,29 @@
+
+
+.CarStyle {
+    height: 600px;
+    color: white;
+    background-color: white !important;
+} 
+
+
+
+.appPos {
+    display: grid;
+    justify-content: center;
+    color: black;
+    padding-bottom: 1000px;
+
+}
+
+
+
+
+
+
+
+
+li {
+    background-color: orange !important;
+    
+}
