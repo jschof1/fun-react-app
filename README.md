@@ -113,21 +113,33 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+[Install node](https://nodejs.org/en/download/)
 
+To check if you have Node.js installed, run this command in your terminal:
+```
+node -v
+`````
+To confirm that you have npm installed you can run this command in your terminal:
+```
+npm -v
+````
 ### Installation
 
 1. Clone the repo
    ```sh
    git clone https://github.com/jschof1/fun-react-app.git
    ```
-2. Install NPM packages
+2. Run react app
+   ```  
+    npx create-react-app my-app
+    cd my-app
+    npm start
+  
+3. Install NPM packages
    ```sh
-   npm install
+    
+    npm install react-responsive-carousel react-draggable randomcolor 
+
    ```
 
 
