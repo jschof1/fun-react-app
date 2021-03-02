@@ -85,7 +85,7 @@
 
 <p>
 An application slider showcasing my React.JS skills. Each slide contained a tool or a game:
-a meme generator, movie database searcher, calculator, sketch/paint book, to-do list generator,
+a meme generator, movie database searcher, calculator, sketch/paint book,
 noughts-&-crosses, stopwatch, and a quote generator.
 </p>
 
